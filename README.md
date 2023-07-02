@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a first-year web application development student.<br>Have been passionate about technology since I can remember. <br>I love learning new technologies both in front-end and back-end development.
+I’m a second-year web application development student.<br>Have been passionate about technology since I can remember. <br>I love learning new technologies both in front-end and back-end development.
 
 
 ## 🌐 Socials:
