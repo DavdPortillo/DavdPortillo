@@ -4,7 +4,7 @@ I’m a second-year web application development student.<br>Have been passionate
 
 ## 🌐 Socials:
 ## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://linkedin.com/in/TuNombre](https://www.linkedin.com/in/david-portillo-b7869a276/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/david-portillo-b7869a276/]
 
 
 https://linkedin.com/in/TuNombre
