@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m a second-year web application development student.<br>Have been passionate about technology since I can remember. <br>I love new technologies both in front-end and back-end development.
+I’m currently doing my internship at NTT Data as a DevOps engineer.
 
 
 ## 🌐 Socials:
