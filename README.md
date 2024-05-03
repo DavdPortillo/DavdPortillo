@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m currently doing my internship at NTT Data as a DevOps engineer.
+Hi, I'm David Portillo, a web developer born on January 30, 1993, currently residing in Malaga. I'm passionate about creating innovative web solutions and I'm in the final stages of my internship as a DevOps Developer at NTT Data.
 
 
 ## 🌐 Socials:
